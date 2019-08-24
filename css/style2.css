@@ -1,0 +1,133 @@
+*{
+margin: 0;
+padding: 0;
+font-family: "montserrat", sans-serif;
+}
+
+
+
+
+.contanier{
+width: 850px;
+height: 400px;
+background:linear-gradient(115deg,#9900cc  50%, rgb(255,255,255)10%);
+box-shadow: 2px 4px 10px black;
+margin: 17% auto;
+}
+
+.signup-section{
+color: #fff;
+
+}
+
+.signup-section a{
+display: inline-block;
+margin: 20px 30px;
+text-decoration: none;
+color: #fff;
+transition: 0.6s ease;
+border-bottom: 2px solid #fff;
+padding: 0px 0px 4px 0px;
+}
+
+.signup-section a:hover{
+
+border-color: tomato;
+}
+.signup-section h1{
+margin: 95px 0px 0px 70px;
+	
+}
+
+.signup-section h3{
+margin:-12px 0px 0px 110px;
+
+}
+
+.signup-section h5{
+
+margin: 49px 0px 0px 25px;
+
+
+}
+
+.signup-section img{
+width: 230px;
+height: 230px;
+
+margin: -130px 0px 0px 290px;
+
+}
+
+.login-saction{
+
+	float: right;
+
+
+	margin: -355px 60px 0px 0px;
+}
+
+.login-saction img{
+
+	display: block;
+	margin: 0px auto;
+}
+
+.login-saction h3{
+
+	text-align: center;
+	padding: 10px;
+	color: #9900cc;
+}
+.form-control{
+margin: 5px;
+border: 0px;
+background: none;
+border: 2px solid #9900cc;
+border-radius: 24px;
+padding: 5px 10px;
+text-align: center;
+transition: 0.6s ease;
+}
+
+.form-control:hover{
+
+box-shadow: 1px 1px 5px black;
+
+}
+
+
+.btn{
+display:block;
+text-align: center;
+margin: 5px auto 10px;
+padding: 5px 10px;
+background: none;
+border: 0;
+color: #fff;
+background: #9900cc;
+border-radius: 20px;
+transition:  0.6s ease;
+box-shadow: 1px 2px 5px black;
+}
+
+.btn:hover{
+color: #9900cc;
+
+background: ;
+}
+
+
+.login-saction a{
+display: block;
+margin: 7px auto;
+text-align: center;
+text-decoration: none;
+transition:  0.6 ease;
+
+}
+
+.login-saction a:hover{
+color: red;
+
+}
